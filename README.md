@@ -1,2 +1,0 @@
-# ITP-Edit
-Event menagemant
